@@ -1,5 +1,5 @@
 import hashlib
-path = "C:/Users/ghost/Downloads/test.txt"
+path = "C:/Users/USER/Downloads/test.txt"
 #destinatia/path -- loactia fisierului
 
 with open(path, "rb") as file:
